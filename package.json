@@ -18,7 +18,7 @@
     "javascript-obfuscator": "^4.0.2",
     "keyv": "^4.0.4",
     "node-cache": "^5.1.2",
-    "node-fetch": "^2.6.6",
+    "node-fetch": "^2.7.0",
     "nodemon": "^2.0.21",
     "uuid": "^9.0.1",
     "valid-url": "^1.0.9",
